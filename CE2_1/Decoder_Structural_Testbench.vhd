@@ -98,6 +98,7 @@ BEGIN
 		I1 <= '0';
 		EN <= '0';
       wait for 100 ns;
+		assert Y0='1' report "000 Success" severity note;
 
 		I0 <= '0';
 		I1 <= '0';
