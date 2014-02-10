@@ -1,4 +1,4 @@
 Lab-2-Adder
 ===========
 
-LAB 2
+Prelab = Done
