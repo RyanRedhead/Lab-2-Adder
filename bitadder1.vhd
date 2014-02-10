@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer: Ryan Redhead
 --
 -- Create Date:   21:18:12 02/09/2014
--- Design Name:   
+-- Design Name:   1 bit adder testbench
 -- Module Name:   C:/Users/C16Ryan.Redhead/Desktop/ECE 281/Lab2/bitadder1.vhd
 -- Project Name:  Lab2
 -- Target Device:  
