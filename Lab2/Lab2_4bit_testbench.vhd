@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer: Ryan Redhead
 --
 -- Create Date:   22:50:28 02/13/2014
 -- Design Name:   
@@ -8,7 +8,7 @@
 -- Project Name:  Lab2
 -- Target Device:  
 -- Tool versions:  
--- Description:   
+-- Description:   Testbench for final 4 Bit
 -- 
 -- VHDL Test Bench Created by ISE for module: Lab2_4bit_final
 -- 
