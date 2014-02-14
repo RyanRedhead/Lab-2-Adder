@@ -42,7 +42,7 @@ architecture Behavioral of mux is
 begin
 mux: process(D0,D1,S)
 begin
-if s = '0' then
+if S = '0' then
 Y <= D0;
 else
 Y <= D1;

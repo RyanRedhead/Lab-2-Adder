@@ -102,6 +102,7 @@ BEGIN
 		A <= "0000";
 		B <= "0000";
 		SubChoice <= '0';
+		wait for 10ns;
 		for I in 0 to 15 loop
 			for J in 0 to 15 loop
 				wait for 10 ns;
@@ -109,8 +110,13 @@ BEGIN
 			end loop;
 			A <= A + "0001";
 		end loop;
+		wait for 10 ns;
 		
+		
+		A <= "0000";
+		B <= "0000";
 		SubChoice <= '1';
+		wait for 10 ns;
 		for I in 0 to 15 loop
 			for J in 0 to 15 loop
 				wait for 10 ns;

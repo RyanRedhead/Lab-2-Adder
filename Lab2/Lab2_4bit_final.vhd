@@ -66,7 +66,7 @@ Summost : in  STD_LOGIC;
 overflo : out  STD_LOGIC
 );
 end component;
-
+ 
 signal Cin1, Cin2, Cin3 : STD_LOGIC;
 signal B_NOT, Bother : STD_LOGIC_VECTOR (3 downto 0);
 
@@ -90,7 +90,7 @@ overflo => Overflow
 
 bit0 : bitadder port map(
 A => A(0),
-B => B(0),
+B => Bother(0),
 Cin => SubChoice,
 Sum => Sum(0),
 Cout => Cin1
@@ -98,7 +98,7 @@ Cout => Cin1
 
 bit1 : bitadder port map(
 A => A(1),
-B => B(1),
+B => Bother(1),
 Cin => Cin1,
 Sum => Sum(1),
 Cout => Cin2
@@ -106,7 +106,7 @@ Cout => Cin2
 
 bit2 : bitadder port map(
 A => A(2),
-B => B(2),
+B => Bother(2),
 Cin => Cin2,
 Sum => Sum(2),
 Cout => Cin3
@@ -114,7 +114,7 @@ Cout => Cin3
 
 bit3 : bitadder port map(
 A => A(3),
-B => B(3),
+B => Bother(3),
 Cin => Cin3,
 Sum => Sum(3),
 Cout => Cout
