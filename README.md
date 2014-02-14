@@ -2,5 +2,7 @@ Lab-2-Adder
 ===========
 
 Prelab = Done
-#Final Circuit Schematic
+#Final Circuit Schematic with Device Labels
+
+#4 Bit Adder Testbench Output
 ![Alt Text](https://github.com/RyanRedhead/Lab-2-Adder/blob/master/lab2_4bit_testbench.PNG?raw=true)
