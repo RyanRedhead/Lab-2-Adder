@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Ryan Redhead
 -- 
 -- Create Date:    20:55:44 02/13/2014 
 -- Design Name: 
 -- Module Name:    mux - Behavioral 
--- Project Name: 
+-- Project Name: Lab 2
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
+-- Description: Mux Device
 --
 -- Dependencies: 
 --
