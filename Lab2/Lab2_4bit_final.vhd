@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Ryan Redhead
 -- 
 -- Create Date:    22:03:33 02/13/2014 
 -- Design Name: 
 -- Module Name:    Lab2_4bit_final - Structural 
--- Project Name: 
+-- Project Name: Lab 2
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
+-- Description: Final 4 Bit Adder with all functionality
 --
 -- Dependencies: 
 --
