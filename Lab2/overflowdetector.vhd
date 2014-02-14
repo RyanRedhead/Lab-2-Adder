@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Ryan Redhead
 -- 
 -- Create Date:    21:16:00 02/13/2014 
 -- Design Name: 
 -- Module Name:    overflowdetector - Behavioral 
--- Project Name: 
+-- Project Name: Lab 2
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
+-- Description: Over Flow Detector
 --
 -- Dependencies: 
 --
