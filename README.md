@@ -28,4 +28,4 @@ Commas after port mapping
 Information to get the I and J in the testbench loop was found online in multiple sources.
 To find how to use a Mux as a component a process statement was used, http://www.ics.uci.edu/~jmoorkan/vhdlref/process.html helped.
 
-So far overflow works and the subtraction button on the Nexys2, still working on the 4 LED lights.
+Full Functionality on youtube link below!! Overflow is E17, 5th LED from the right.
