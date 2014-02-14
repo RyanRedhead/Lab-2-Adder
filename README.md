@@ -24,8 +24,10 @@ Sum needed to be set as inout?.. to work
 
 Commas after port mapping
 
+Make sure input/output names match what was originally stated for ucf file...
+
 #Documentation
 Information to get the I and J in the testbench loop was found online in multiple sources.
 To find how to use a Mux as a component a process statement was used, http://www.ics.uci.edu/~jmoorkan/vhdlref/process.html helped.
 
-Full Functionality on youtube link below!! Overflow is E17, 5th LED from the right.
+I sent a video of the funcitonality by email, overflow is E17, 5th LED from the right.
