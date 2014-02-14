@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer: Ryan Redhead
 --
 -- Create Date:   21:22:39 02/13/2014
 -- Design Name:   
@@ -8,7 +8,7 @@
 -- Project Name:  Lab2
 -- Target Device:  
 -- Tool versions:  
--- Description:   
+-- Description:   Mux Testbench
 -- 
 -- VHDL Test Bench Created by ISE for module: mux
 -- 
