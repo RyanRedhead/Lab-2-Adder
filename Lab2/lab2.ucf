@@ -1,0 +1,14 @@
+Net B<0> LOC = "G18";
+Net B<1> LOC = "H18";
+Net B<2> LOC = "K18";
+Net B<3> LOC = "K17";
+Net A<0> LOC = "L14";
+Net A<1> LOC = "L13";
+Net A<2> LOC = "N17";
+Net A<3> LOC = "R17";
+Net SubChoice LOC = "B18";
+NET S<0> LOC = "J14";
+NET S<1> LOC = "J15";
+NET S<2> LOC = "K15";
+NET S<3> LOC = "K14";
+NET Overflow LOC = "E17";
